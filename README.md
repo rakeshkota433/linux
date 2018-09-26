@@ -10,4 +10,5 @@ my_code
  git push origin master
  master = branch name 
  git checkout branch
- 
+git branch -r
+git checkout -b creating-branch 
