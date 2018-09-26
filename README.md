@@ -11,4 +11,7 @@ my_code
  master = branch name 
  git checkout branch
 git branch -r
-git checkout -b creating-branch 
+git checkout -b creating-branch
+git merge branch-name -----------> merging with master
+git branch -d branch-name -------> del the branch 
+
