@@ -1,0 +1,5 @@
+kernel/drivers/input/keyboard/adp5588-keys.ko
+kernel/drivers/input/keyboard/atkbd.ko
+kernel/drivers/input/keyboard/gpio_keys.ko
+kernel/drivers/input/keyboard/imx_keypad.ko
+kernel/drivers/input/keyboard/snvs_pwrkey.ko

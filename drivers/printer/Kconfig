@@ -1,0 +1,19 @@
+#
+# Analogics Printer Device Configuration
+#
+#
+
+menu "Analogics Printer Drivers"
+
+config PRINT2T_DRV3388
+	bool "2 INCH THERMAL PRINTER"
+	help
+	say y here to enable Thermal printer driver support
+	for Analogics devices.
+config PRINT2I
+	bool "2 INCH IMPACT PRINTER"
+	help
+	say y here to enable Thermal printer driver support
+	for Analogics devices.
+
+endmenu

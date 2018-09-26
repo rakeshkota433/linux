@@ -1,0 +1,1 @@
+cmd_drivers/rpmsg/imx_rpmsg_tty.ko := arm-poky-linux-gnueabi-ld -EL -r  -T ./scripts/module-common.lds --build-id  -o drivers/rpmsg/imx_rpmsg_tty.ko drivers/rpmsg/imx_rpmsg_tty.o drivers/rpmsg/imx_rpmsg_tty.mod.o
